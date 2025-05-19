@@ -2,7 +2,7 @@
 ___________________________________________________________________________________________________________________________________________________________________________________________
 
 WEB DEVELOPER trainee at XPORTSOFT TECHNOLOGIES PVT. LTD. (13/02/2025 - to present)
-_Aspiring WEB DEVELOPER (MERN)
+- Aspiring WEB DEVELOPER (MERN)
 My Skills
 - React
 - Javascript
