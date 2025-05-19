@@ -7,7 +7,7 @@ Aspiring WEB DEVELOPER (MERN)
 _____________________________
 My Skills
 __________
-- * [![Next][Next.js]][Next-url]
+- React
 - Javascript
 - Bootstrap
 - CSS
