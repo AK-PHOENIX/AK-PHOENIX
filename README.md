@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @AK-PHOENIX
-- 👀 I’m interested in Devlopment/Programming
-- 🌱 I’m currently learning DSA(JAVA)
-- 💞️ I’m looking to collaborate on leetcode
-- 📫 How to reach me just dm me
-- 😄 Pronouns:GYM BEAST
-- ⚡ Fun fact:Road to Successfull
+👋 Hi there, I’m Aman
+___________________________________________________________________________________________________________________________________________________________________________________________
+
+WEB DEVELOPER trainee at XPORTSOFT TECHNOLOGIES PVT. LTD. (13/02/2025 - to present)
+Aspiring WEB DEVELOPER (MERN)
+My Skills
+- React
+- Javascript
+- Bootstrap
+- CSS
+- HTML
 
 <!---
 AK-PHOENIX/AK-PHOENIX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
